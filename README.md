@@ -14,7 +14,7 @@ Sometimes one needs `O(log n)` search performance.
 # [mod.ts](mod.ts)
 
 The `find` function can be used to find an `item` in an `array`. The array must
-be sorted according to the `comparator` function.
+be sorted according to the `compare` function.
 
 ```ts
 import { find } from "https://deno.land/x/binary_search/mod.ts";
