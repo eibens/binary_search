@@ -68,4 +68,4 @@ console.assert(index === 2);
 [deno-doc]: https://doc.deno.land/https/deno.land/x/binary_search/mod.ts
 [deno-doc-shield]: https://img.shields.io/badge/doc-informational?logo=deno
 [deno-land]: https://deno.land/x/binary_search
-[deno-land-shield]: https://img.shields.io/badge/x/binary_search-informational?logo=deno&label
+[deno-land-shield]: https://img.shields.io/badge/x/binary__search-informational?logo=deno&label
